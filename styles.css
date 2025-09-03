@@ -1,7 +1,47 @@
+:root {
+  /* Surface colors */
+  --background-color: #573824;
+  --surface-color: #f0e8c2;
+  /* Text colors */
+  --text-color-primary: #291b1a;
+  --text-color-secondary: #573a37;
+  --text-color-on-bg: #f0e8c2;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-image: url(./assets/bg.jpg);
+  background-size: cover;
+  font-family: "Alice", serif;
+  color: var(--text-color-primary);
+
+  p,
+  li {
+    color: var(--text-color-secondary);
+  }
+}
+
+#Page {
+  width: 50rem;
+  padding: 1.5rem;
+  margin: 3rem auto;
+  border-radius: 1.5rem;
+  background-color: #f0e8c2;
+}
+
+img {
+  border-radius: 1rem;
+}
+
+footer {
+  p {
+    color: var(--text-color-on-bg);
+  }
 }
