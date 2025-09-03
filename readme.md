@@ -10,7 +10,6 @@ Uma página web elegante e responsiva apresentando uma deliciosa receita de cupc
 
 Esta é uma página de receita moderna e bem estruturada que apresenta uma receita completa de cupcake de café com chantilly. O projeto foi desenvolvido com foco em:
 
-- **Design responsivo** - Adaptável para diferentes tamanhos de tela
 - **Estrutura semântica** - HTML organizado e acessível
 - **Experiência do usuário** - Interface limpa e fácil navegação
 - **Tipografia cuidadosa** - Boa legibilidade e hierarquia visual
@@ -28,7 +27,6 @@ Esta é uma página de receita moderna e bem estruturada que apresenta uma recei
 
 - **HTML5** - Estrutura semântica da página
 - **CSS3** - Estilização e layout responsivo
-- **JavaScript** - Interatividade (se aplicável)
 - **GitHub Pages** - Hospedagem gratuita
 
 ## 📂 Estrutura do Projeto
@@ -38,8 +36,6 @@ Pagina_de_receita-Rocketseat/
 ├── index.html          # Página principal
 ├── css/
 │   └── style.css      # Estilos da página
-├── js/
-│   └── script.js      # Scripts (se aplicável)
 ├── images/
 │   └── assets...      # Imagens e ícones
 └── README.md          # Documentação
