@@ -68,7 +68,20 @@ ul {
 }
 
 footer {
+  margin: 1.75rem auto;
+
   p {
+    text-align: center;
     color: var(--text-color-on-bg);
+
+    img {
+      vertical-align: middle;
+    }
+
+    a {
+      text-decoration: none;
+      color: var(--text-color-on-bg);
+      border-bottom: 0.125rem solid var(--text-color-on-bg);
+    }
   }
 }
