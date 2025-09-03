@@ -46,7 +46,6 @@ Pagina_de_receita-Rocketseat/
 - ✅ Apresentação clara dos ingredientes
 - ✅ Modo de preparo detalhado e organizado
 - ✅ Informações sobre tempo, rendimento e dificuldade
-- ✅ Design responsivo para mobile e desktop
 - ✅ Tipografia otimizada para leitura
 - ✅ Layout moderno e atrativo
 
