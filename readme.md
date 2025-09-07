@@ -1,5 +1,11 @@
 # 🧁 Página de Receita - Cupcake de Café com Chantilly
 
+<div align="center">
+  
+![Banner](./.github/Cover.svg)
+
+</div>
+
 Uma página web elegante e responsiva apresentando uma deliciosa receita de cupcake de café com chantilly, desenvolvida como projeto educacional.
 
 ## 🌐 Demonstração
@@ -17,6 +23,7 @@ Esta é uma página de receita moderna e bem estruturada que apresenta uma recei
 ## 🍰 Receita Apresentada
 
 **Cupcake de Café com Chantilly**
+
 - ⏱️ **Tempo de preparo:** 1h10
 - 🍽️ **Rendimento:** 12 porções
 - 📊 **Dificuldade:** Fácil
@@ -52,20 +59,23 @@ Pagina_de_receita-Rocketseat/
 ## 🖥️ Como Executar Localmente
 
 1. **Clone o repositório:**
+
    ```bash
    git clone https://github.com/vinicius-araujo-fullstack/Pagina_de_receita-Rocketseat.git
    ```
 
 2. **Navegue até o diretório:**
+
    ```bash
    cd Pagina_de_receita-Rocketseat
    ```
 
 3. **Abra o arquivo `index.html`** em seu navegador preferido ou use um servidor local:
+
    ```bash
    # Usando Python (se instalado)
    python -m http.server 8000
-   
+
    # Usando Node.js (se instalado)
    npx live-server
    ```
@@ -73,6 +83,7 @@ Pagina_de_receita-Rocketseat/
 ## 🎨 Design
 
 O design da página apresenta:
+
 - **Paleta de cores** harmoniosa e aconchegante
 - **Tipografia** clara e legível
 - **Espaçamento** adequado para boa leitura
@@ -95,6 +106,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 👨‍💻 Desenvolvedor
 
 **Vinicius Araújo**
+
 - GitHub: [@vinicius-araujo-fullstack](https://github.com/vinicius-araujo-fullstack)
 
 ## 🙏 Agradecimentos
@@ -108,4 +120,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-*Feito com ❤️ e muito ☕ por [Vinicius Araújo](https://github.com/vinicius-araujo-fullstack)*
+_Feito com ❤️ e muito ☕ por [Vinicius Araújo](https://github.com/vinicius-araujo-fullstack)_
